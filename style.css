@@ -8,3 +8,26 @@ body {
 p {
     color: red;
 } 
+
+button {
+    background: black;
+    color: greenyellow;
+    border: 2px dashed greenyellow;
+    padding: 5px;
+    font-family: 'Courier New';
+}
+
+input{
+    background: greenyellow;
+    padding: 10px;
+    font-family: 'Courier New';
+    font-weight: bold;
+    text-align: center;
+}
+
+div{
+    background: white;
+    width: 230px;
+    padding: 20px;
+    margin: 0 auto;
+}
